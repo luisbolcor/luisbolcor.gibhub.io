@@ -1,0 +1,58 @@
+.d1{
+  font-family: Arial, Helvetica, sans-serif;
+color: black;
+background-color:gainsboro;
+}
+.d2{
+  font-family: Arial, Helvetica, sans-serif; 
+color: black;
+background-color: coral;
+}
+
+.d3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  
+}
+.d4{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+.d5{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    margin-bottom: 20px;
+  }
+  
+  button[type="submit"] {
+    background-color: blue;
+    color: white;
+    padding : 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: blue;
+  }
